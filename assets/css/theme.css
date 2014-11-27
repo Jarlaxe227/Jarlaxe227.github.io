@@ -1,9 +1,3 @@
-/* 
-Document   : theme.css
-Author     : Mamoot Studio, Nathan Bray
-Description: Style-Layout
-*/
-
 /* Table of Content
 ==================================================
 #GENERAL
@@ -322,8 +316,8 @@ hr {
 .layer-intro {
     background-color:rgb(34,49,63);
     /* IE 8 OPACITY */
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-    background-color: rgba(34,49,63,.9);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    background-color: rgba(34,49,63,.7);
 }
 
 .bg-intro h1 {
